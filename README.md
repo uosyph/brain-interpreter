@@ -36,32 +36,19 @@ Any other character beside the one listed above is ignored.
 
 ---
 
-## Installing
+## Build and Run
 
-* Clone the repository
 ```
 git clone https://github.com/yousafesaeed/brain-interpreter.git
-```
-
-* Go to the src directory
-```
 cd brain-interpreter/src/
-```
-
-* Compile the code
-```
 javac App.java
-```
-
-* Run
-```
 java App.java
 ```
 
-## Notes
+### Notes
 
 I am aware of the bugs in the interpreter, and I will get to work on them somewhere in the future.
 
-## Suggestions
+### Suggestions
 
 If you have any suggestions I am more than happy to hear from you.
