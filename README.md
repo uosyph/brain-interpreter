@@ -51,4 +51,9 @@ I am aware of the bugs in the interpreter, and I will get to work on them somewh
 
 ### Suggestions
 
-If you have any suggestions I am more than happy to hear from you.
+If you have any question or suggestions I'm more than happy to hear from you.
+
+```brainfuck
+++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>+++++++++++++++++++++.----------.++++++.--.------------------.+++++.-.++++++++++++++.------------------.++++..-.<------.>+++.++++++.------------.++++++++.+++.<<++++++++++++++++.>>---------.++++++++++++.--.
+```
+
