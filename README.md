@@ -1,14 +1,12 @@
-# Brainfu*k Interpreter
+<h1 align="center">
+Brainfu*k Interpreter in Java
+</h1>
 
-Brainfu*k interpreter written in Java.
-
-By: Yousef Saeed
-
----
+<br>
 
 ## Brainfu*k Basics
 
-*brainfuck* is all about memory manipulation, you are given an array of 30000 1byte memory blocks (can be changed in the interpretor but 30000 is the standered), and there are only 8 operators available to use :
+*brainfu*k* is all about memory manipulation, you are given an array of 30000 1byte memory blocks (can be changed in the interpretor but 30000 is the standered), and there are only 8 operators available to use :
 
 ```brainfuck
 > = moves the pointer 1 block to the right
@@ -22,7 +20,7 @@ By: Yousef Saeed
 ```
 Any other character beside the one listed above is ignored.
 
-### Examples
+### Examples :
 
 * Hello World!
 ```brainfuck
@@ -37,11 +35,11 @@ Any other character beside the one listed above is ignored.
 ---
 
 
-### Notes
+### Notes :
 
 I'm aware of the bugs in the interpreter, and I will get to work on them somewhere in the future.
 
-### Suggestions
+### Suggestions :
 
 If you have any question or suggestions I'm more than happy to hear from you.
 
