@@ -36,18 +36,10 @@ Any other character beside the one listed above is ignored.
 
 ---
 
-## Build and Run
-
-```
-git clone https://github.com/yousafesaeed/brain-interpreter.git
-cd brain-interpreter/src/
-javac App.java
-java App.java
-```
 
 ### Notes
 
-I am aware of the bugs in the interpreter, and I will get to work on them somewhere in the future.
+I'm aware of the bugs in the interpreter, and I will get to work on them somewhere in the future.
 
 ### Suggestions
 
